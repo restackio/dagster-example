@@ -1,0 +1,5 @@
+execution:
+  config:
+    image_pull_policy: "Always"
+    job_namespace: "ADD DAGSTER APPID"
+
